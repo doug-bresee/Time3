@@ -32,6 +32,8 @@ if (hours >= 0 && hours <= 12) {
   colorStyle.color = "blue";
 }
 
+// test comment
+
 var elements = (
   <div>
     <h1 style={colorStyle} class="heading">
