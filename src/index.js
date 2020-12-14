@@ -36,7 +36,7 @@ if (hours >= 0 && hours <= 12) {
 
 var elements = (
   <div>
-    <h1 style={colorStyle} class="heading">
+    <h1 style={colorStyle} className="heading">
       Good {timeOfDay}
     </h1>
   </div>
